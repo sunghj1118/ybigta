@@ -1,1 +1,1 @@
-# I am trying to create a new folder.
+# This folder contains the screenshots for the conda list of yb22.
